@@ -22,14 +22,18 @@ This is my new state machine system break down. It is not what my final state gr
       - Right
    4. Incorporate into Visual Scripting Graph
 
-3. NPC Dialogue
+2. NPC Dialogue
    1. Two NPC's
       - one NPC will be the NAVmesh agent where they will locate the player, and give the first quest when accepted
       - This quest will direct the player to find the second NPC and continue to finish another quest
     2. Create ENUM's for the NPC script to differentiate which NPC the player is talking to
     3. Create nodes for the dialogue that will hold replies and npc lines
     4. Create AdvanceDialogue() method, and call it when the player is within a certain distance and the player clicks
-4. Create full map with cave and terrain
+
+3. Create full map with cave and terrain
+   1. Import assets into Unity
+   2. Setup terrain using the asset's materials and layers
+   3. Build cave with route to a new NPC
 
 ## Milestone 3 Devlog
 Milestone 3 Devlog goes here.
