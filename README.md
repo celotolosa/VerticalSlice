@@ -35,6 +35,12 @@ This is my new state machine system break down. It is not what my final state gr
    2. Setup terrain using the asset's materials and layers
    3. Build cave with route to a new NPC
 
+After Coding:
+
+1. I think that the breakdown really did help in coding my game to the next requirements. I followed it in a bit of a different order, (3, 1, 2), but the order didn't matter as much since the process for each was different. I would improve my breakdowns a little more in the future if I were to do them again by adding examples of the steps from previous activities, or add tutorial links
+2. In C# and visual scripting I've used both animations and movement that are bridged together. 
+3. The unity system I want graded is the Scriptable objects that I used for NPC dialogue. It my intended and used unity system that I also pitched.
+
 ## Milestone 3 Devlog
 Milestone 3 Devlog goes here.
 ## Milestone 4 Devlog
